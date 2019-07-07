@@ -10,6 +10,9 @@ function App() {
         <p>
 		  Docker + ReactJS + AWS EBS + NGINX + GitHub + TravisCI.
         </p>
+		<p>
+		  I was changed on the feature branch.
+		</p>
         <a
           className="App-link"
           href="https://reactjs.org"
